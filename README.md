@@ -26,7 +26,7 @@
 ### Languages
 <div align="center">  
 <!-- Dart icon -->
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
 <!-- Flutter icon -->
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="Flutter" height="50" /></a>
 <!-- C++ icon -->
